@@ -1,10 +1,38 @@
 
-# People of interest:
+# People of (current) interest:
 
 ## Azmodeus
 * Rulers of first 8 levels of hell answer to him
 * Avoid at all costs
 
+## Gargaurath
+* The Hidden Lord
+* Shield of The Hidden Lord has some being trapped within.
+
+## Lulu
+* Golden hollyphant
+* Reportedly a devil killer.
+* Reports that Zariel’s forces were betrayed by the Hellriders, who sealed the gateway behind Zariel.
+* Entrusted with Zariel’s sword, which is hidden, but forgotten.
+
+## Portyr, Liara (Commander)
+* High ranking Fist officer 
+* Niece of Duke Dillard Portyr
+* Primary concern is finding Ulder Ravengard
+
+## Traxigor
+* Wizard who abandoned us in Avernus
+
+## Zariel
+* Arch Devil, with big plans
+* Sent Elturel to Avernus (first level of hell)
+* Planned(plans) to send Baldur’s Gate down as well.
+
+
+
+# People of (past) interest:
+<details>
+  <summary>Beginning through getting out of sewers</summary>
 ## Dead-Eye Cadavrus
 * Was after Tarina.
 * Spilled some red and grey matter in Elfsong Tavern.
@@ -13,10 +41,6 @@
 ## Fisk, Falaster
 * Friend of Sylvira Savikas
 * Hired to find Thavius Kreeg
-
-## Gargaurath
-* The Hidden Lord
-* Shield of The Hidden Lord has some being trapped within.
 
 ## Iarkrana, Saevel
 * Scholar who went mad researching Elturel.
@@ -47,17 +71,6 @@
 * Wine distributor for Oathoon family.
 * Witnessed Dead Three interrogations regarding Jhasso family.
 
-## Lulu
-* Golden hollyphant
-* Reportedly a devil killer.
-* Reports that Zariel’s forces were betrayed by the Hellriders, who sealed the gateway behind Zariel.
-* Entrusted with Zariel’s sword, which is hidden, but forgotten.
-
-## Portyr, Liara (Commander)
-* High ranking Fist officer 
-* Niece of Duke Dillard Portyr
-* Primary concern is finding Ulder Ravengard
-
 ## Ravengard, Ulder (Grand Duke)
 * Commander of the Flaming Fist
 * Ranking Member of the Council of Four
@@ -84,9 +97,6 @@
 * The Hhune family were keepers of the Shield of Gargaurath.
 * Members of Knights of the Shield society.
 
-## Traxigor
-* Wizard who abandoned us in Avernus
-
 ## Vanthampur, Amrik
 * Son of Duke Thalamra Vanthampur
 * Frequents Low Lantern Inn, which is a boat on the docks.
@@ -110,13 +120,10 @@
 * Unintelligent caster.
 * Was in possession of a puzzle box which contained the deal with the devil.
 
-## Zariel
-* Arch Devil, with big plans
-* Sent Elturel to Avernus (first level of hell)
-* Planned(plans) to send Baldur’s Gate down as well.
-
 ## Zodge (Captain)
 * Captain of the Flaming Fist
+
+<details>
 
 
 # Organizations:
@@ -253,6 +260,9 @@
 </details>
 
 ## Deeper into hell.
+<details>
+  <summary>Nightmares, warmachines, and betrayal. Oh my.</summary>
+
 * As we prepared to go deeper, we all seemed to be plagued by hellish nightmares.
 * Sidenote: multiple people’s dreams seemed to feature Jon…
 * Jumped off Elturel and landed safely in Avernus thanks to me.
@@ -294,6 +304,9 @@
 * Found the twins in Haruman’s compound.
 * Ivor is a two-faced asshole, stole the kids and teleported away.
 * Leaving dejectedly, and retracing our steps we found the mirror of mephistar.
+</details>
+
+## A deal with a devil.
 * Made a deal with the devil, and dammed the styx in exchange for knowledge and power (pretty standard stuff really.)
 * Saved a devil who taught us how to make a snot-munculus.
 * Kradian stood guard as everyone else had a Meph-nap.
@@ -343,4 +356,4 @@ Soul coin tracking:
 1 war machine: 3 charges remaining
 50 soul coins
 
-
+# vim:set foldmethod=expr foldexpr=getline(v:lnum)=~#'^#'?'>1':'=' ;
