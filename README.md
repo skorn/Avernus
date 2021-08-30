@@ -123,7 +123,7 @@
 ## Zodge (Captain)
 * Captain of the Flaming Fist
 
-<details>
+</details>
 
 
 # Organizations:
