@@ -32,7 +32,7 @@
 
 # People of (past) interest:
 <details>
-  <summary>Beginning through getting out of sewers</summary>
+  <summary>May want to know about the again, but hide for now.</summary>
 ## Dead-Eye Cadavrus
 * Was after Tarina.
 * Spilled some red and grey matter in Elfsong Tavern.
